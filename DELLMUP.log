@@ -1,0 +1,38 @@
+======================================================================================================================================
+                   Realtek High Definition Audio Driver
+======================================================================================================================================
+Command : "C:\ProgramData\Dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83\DELLMUP.exe" /v" LOGFILE="C:\ProgramData\dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83\DUPE271.tmp""
+Date : 2020-10-9  8:7:10.833
+User : nicolasadmin 
+======================================================================================================================================
+Starting to get initial ...
+[OS] : 10.0
+    -Build : 19041
+    -XP : 0
+    -Vista : 0
+    -Win7 : 0
+    -Win8 : 0
+    -Win8.1 : 0
+    -Win10 : 1
+    -Service Pack : 0
+    -x64 system : 1
+    -MCE system : 0
+    -Server system : 0
+    -System Language ID : 0x040C
+    -User Language ID : 0x040C
+[Default Path] :
+    -tcRtkTempDir : C:\ProgramData\Dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83
+    -tcISSetupLocation : C:\ProgramData\Dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83
+
+Collecting inventory ...
+Checking driver version ...
+    [Realtek Audio Driver for DELL MUP Package]
+       MUP Package Version : 6.0.8895.1
+
+    [Realtek HD Audio Driver]
+        Driver : RTKVHD64.sys
+        Installed version : 6.0.8960.1
+        Package version : 6.0.8895.1
+
+Executing update ...    [2020-10-9  8:7:10.833]
+    Run Setup Command : C:\ProgramData\Dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83\RealtekAudio\Setup.exe  /z[-rpC:\ProgramData\Dell\drivers\4d5b3399-dd21-44b0-92f3-b76bda4d1d83\RHDSetup.log]
